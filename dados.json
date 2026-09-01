@@ -1,0 +1,374 @@
+{
+  "meta": {
+    "titulo": "Manual do Estudante",
+    "subtitulo": "Biomedicina UFPR",
+    "versao": "V1",
+    "atualizacao": "2026",
+    "descricao": "Central permanente de orientação acadêmica para estudantes do Curso de Biomedicina da UFPR."
+  },
+  "manualUFPR": {
+    "titulo": "Manual da Estudante e do Estudante UFPR",
+    "descricao": "Material institucional de referência para conhecer a Universidade, os principais procedimentos acadêmicos, formação complementar, permanência e serviços.",
+    "url": "https://prograp.ufpr.br/",
+    "rotuloBotao": "Acessar PROGRAP"
+  },
+  "acessosRapidos": [
+    {
+      "titulo": "Grade Horária",
+      "icone": "🗓️",
+      "descricao": "Consulte os horários das disciplinas do curso.",
+      "url": "https://bio.ufpr.br/biomedicina/grade-horaria-3/",
+      "tags": [
+        "horário",
+        "aulas",
+        "disciplinas"
+      ]
+    },
+    {
+      "titulo": "Ensalamento",
+      "icone": "📍",
+      "descricao": "Localize salas, prédios e locais das aulas.",
+      "url": "https://rodrigotadm-sketch.github.io/Ensalamento-2026-2/",
+      "tags": [
+        "sala",
+        "prédio",
+        "aula",
+        "local"
+      ]
+    },
+    {
+      "titulo": "Formulários",
+      "icone": "📝",
+      "descricao": "Encontre formulários, requerimentos e instruções acadêmicas.",
+      "url": "https://bio.ufpr.br/biomedicina/formularios/",
+      "tags": [
+        "formulário",
+        "requerimento",
+        "solicitação"
+      ]
+    },
+    {
+      "titulo": "Grade Curricular",
+      "icone": "🎓",
+      "descricao": "Conheça a organização curricular e as disciplinas do curso.",
+      "url": "https://bio.ufpr.br/biomedicina/grade-curricular/",
+      "tags": [
+        "currículo",
+        "disciplinas",
+        "periodização"
+      ]
+    },
+    {
+      "titulo": "Datas e Prazos",
+      "icone": "⏰",
+      "descricao": "Acompanhe prazos importantes para a graduação.",
+      "url": "https://bio.ufpr.br/biomedicina/principais-datas/",
+      "tags": [
+        "datas",
+        "prazos",
+        "calendário"
+      ]
+    },
+    {
+      "titulo": "Cronograma de Matrículas",
+      "icone": "📅",
+      "descricao": "Confira etapas e períodos relacionados à matrícula.",
+      "url": "https://bio.ufpr.br/biomedicina/cronograma-de-matricula-2/",
+      "tags": [
+        "matrícula",
+        "ajuste",
+        "disciplinas"
+      ]
+    },
+    {
+      "titulo": "Estágios",
+      "icone": "🧪",
+      "descricao": "Orientações para estágios obrigatórios e não obrigatórios.",
+      "url": "https://bio.ufpr.br/biomedicina/estagios/",
+      "tags": [
+        "estágio",
+        "supervisor",
+        "termo"
+      ]
+    },
+    {
+      "titulo": "Atividades Formativas",
+      "icone": "📚",
+      "descricao": "Orientações sobre registro e aproveitamento de atividades formativas.",
+      "url": "https://bio.ufpr.br/biomedicina/atividades-formativas/",
+      "tags": [
+        "atividades",
+        "formativas",
+        "horas"
+      ]
+    },
+    {
+      "titulo": "TCC",
+      "icone": "🔬",
+      "descricao": "Informações sobre o Trabalho de Conclusão de Curso.",
+      "url": "https://bio.ufpr.br/biomedicina/trabalho-de-conclusao/",
+      "tags": [
+        "tcc",
+        "trabalho",
+        "conclusão"
+      ]
+    },
+    {
+      "titulo": "Mobilidade Acadêmica",
+      "icone": "🌎",
+      "descricao": "Informações sobre intercâmbio e mobilidade acadêmica.",
+      "url": "https://bio.ufpr.br/biomedicina/intercambio-2/",
+      "tags": [
+        "intercâmbio",
+        "mobilidade",
+        "internacional"
+      ]
+    },
+    {
+      "titulo": "Diplomas",
+      "icone": "📜",
+      "descricao": "Diploma Digital, RVDD e orientações para egressos.",
+      "url": "https://bio.ufpr.br/biomedicina/diplomas/",
+      "tags": [
+        "diploma",
+        "rvdd",
+        "egresso"
+      ]
+    },
+    {
+      "titulo": "Contato",
+      "icone": "☎️",
+      "descricao": "Atendimento e canais da Coordenação do Curso.",
+      "url": "https://bio.ufpr.br/biomedicina/contato/",
+      "tags": [
+        "coordenação",
+        "telefone",
+        "email",
+        "atendimento"
+      ]
+    }
+  ],
+  "quero": [
+    {
+      "titulo": "Consultar minha grade de aulas",
+      "texto": "Veja horários, turmas e organização das disciplinas.",
+      "url": "https://bio.ufpr.br/biomedicina/grade-horaria-3/",
+      "acao": "Ver grade horária",
+      "tags": [
+        "grade",
+        "horário",
+        "aula"
+      ]
+    },
+    {
+      "titulo": "Saber onde será minha aula",
+      "texto": "Consulte o ensalamento e a localização das salas.",
+      "url": "https://rodrigotadm-sketch.github.io/Ensalamento-2026-2/",
+      "acao": "Consultar ensalamento",
+      "tags": [
+        "onde",
+        "sala",
+        "local"
+      ]
+    },
+    {
+      "titulo": "Fazer matrícula ou ajuste",
+      "texto": "Confira o cronograma e os prazos acadêmicos antes de solicitar alterações.",
+      "url": "https://bio.ufpr.br/biomedicina/cronograma-de-matricula-2/",
+      "acao": "Ver cronograma",
+      "tags": [
+        "matrícula",
+        "ajuste"
+      ]
+    },
+    {
+      "titulo": "Encontrar um formulário",
+      "texto": "Acesse a central de formulários e instruções da Coordenação.",
+      "url": "https://bio.ufpr.br/biomedicina/formularios/",
+      "acao": "Abrir formulários",
+      "tags": [
+        "formulário",
+        "requerimento"
+      ]
+    },
+    {
+      "titulo": "Iniciar ou regularizar estágio",
+      "texto": "Consulte procedimentos, documentos e orientações de estágio.",
+      "url": "https://bio.ufpr.br/biomedicina/estagios/",
+      "acao": "Ver estágios",
+      "tags": [
+        "estágio"
+      ]
+    },
+    {
+      "titulo": "Entregar atividades formativas",
+      "texto": "Consulte as orientações para registro e aproveitamento.",
+      "url": "https://bio.ufpr.br/biomedicina/atividades-formativas/",
+      "acao": "Ver atividades",
+      "tags": [
+        "atividade formativa",
+        "horas"
+      ]
+    },
+    {
+      "titulo": "Fazer o TCC",
+      "texto": "Acesse orientações e documentos do Trabalho de Conclusão de Curso.",
+      "url": "https://bio.ufpr.br/biomedicina/trabalho-de-conclusao/",
+      "acao": "Ver TCC",
+      "tags": [
+        "tcc"
+      ]
+    },
+    {
+      "titulo": "Solicitar ou consultar diploma",
+      "texto": "Veja informações sobre Diploma Digital e RVDD.",
+      "url": "https://bio.ufpr.br/biomedicina/diplomas/",
+      "acao": "Ver diplomas",
+      "tags": [
+        "diploma",
+        "rvdd"
+      ]
+    },
+    {
+      "titulo": "Falar com a Coordenação",
+      "texto": "Consulte os canais de atendimento administrativo e acadêmico.",
+      "url": "https://bio.ufpr.br/biomedicina/contato/",
+      "acao": "Ver contato",
+      "tags": [
+        "contato",
+        "coordenação"
+      ]
+    }
+  ],
+  "jornada": [
+    {
+      "etapa": "1",
+      "titulo": "Ingresso",
+      "texto": "Conheça a UFPR, ative seus acessos e identifique os canais oficiais do curso."
+    },
+    {
+      "etapa": "2",
+      "titulo": "Matrícula",
+      "texto": "Acompanhe calendário, cronograma e solicitações no SIGA."
+    },
+    {
+      "etapa": "3",
+      "titulo": "Disciplinas",
+      "texto": "Consulte grade curricular, horários, turmas e ensalamento."
+    },
+    {
+      "etapa": "4",
+      "titulo": "Formação complementar",
+      "texto": "Registre atividades formativas, extensão, pesquisa e outras experiências acadêmicas."
+    },
+    {
+      "etapa": "5",
+      "titulo": "Estágios",
+      "texto": "Planeje e formalize os estágios conforme as orientações do curso."
+    },
+    {
+      "etapa": "6",
+      "titulo": "TCC",
+      "texto": "Acompanhe os procedimentos do Trabalho de Conclusão de Curso."
+    },
+    {
+      "etapa": "7",
+      "titulo": "Conclusão do curso",
+      "texto": "Observe integralização curricular, pendências e procedimentos para formatura."
+    },
+    {
+      "etapa": "8",
+      "titulo": "Diploma",
+      "texto": "Após a conclusão, acompanhe o Diploma Digital e, quando necessário, a RVDD."
+    }
+  ],
+  "calouros": {
+    "titulo": "Começando agora? Veja os primeiros passos",
+    "texto": "Para quem está chegando à Biomedicina, recomendamos começar pelos acessos acadêmicos, calendário, grade curricular, horários e canais de atendimento.",
+    "itens": [
+      {
+        "titulo": "1. Acesse o SIGA",
+        "url": "https://siga.ufpr.br/portal/"
+      },
+      {
+        "titulo": "2. Conheça a Grade Curricular",
+        "url": "https://bio.ufpr.br/biomedicina/grade-curricular/"
+      },
+      {
+        "titulo": "3. Consulte a Grade Horária",
+        "url": "https://bio.ufpr.br/biomedicina/grade-horaria-3/"
+      },
+      {
+        "titulo": "4. Localize suas salas",
+        "url": "https://rodrigotadm-sketch.github.io/Ensalamento-2026-2/"
+      },
+      {
+        "titulo": "5. Confira datas e prazos",
+        "url": "https://bio.ufpr.br/biomedicina/principais-datas/"
+      },
+      {
+        "titulo": "6. Salve o contato da Coordenação",
+        "url": "https://bio.ufpr.br/biomedicina/contato/"
+      }
+    ]
+  },
+  "sistemas": [
+    {
+      "titulo": "SIGA",
+      "icone": "🎓",
+      "descricao": "Sistema de Gestão Acadêmica: vida acadêmica, matrícula, histórico, declarações e solicitações.",
+      "url": "https://siga.ufpr.br/portal/"
+    },
+    {
+      "titulo": "Portal do Aluno UFPR",
+      "icone": "👤",
+      "descricao": "Central institucional com acessos e serviços destinados aos estudantes.",
+      "url": "https://ufpr.br/portal-do-aluno/"
+    },
+    {
+      "titulo": "UFPR Virtual",
+      "icone": "💻",
+      "descricao": "Ambiente virtual utilizado em atividades acadêmicas e disciplinas.",
+      "url": "https://ufprvirtual.ufpr.br/"
+    },
+    {
+      "titulo": "PROGRAP",
+      "icone": "🏛️",
+      "descricao": "Pró-Reitoria responsável pelos assuntos de graduação e educação profissional.",
+      "url": "https://prograp.ufpr.br/"
+    }
+  ],
+  "contato": {
+    "titulo": "Coordenação do Curso de Biomedicina",
+    "endereco": "Avenida Coronel Francisco H. dos Santos, nº 100 — Jardim das Américas — Curitiba/PR — CEP 81531-980",
+    "telefone": "+55 (41) 3361-1744",
+    "email": "biomedicina@ufpr.br",
+    "url": "https://bio.ufpr.br/biomedicina/contato/"
+  },
+  "faq": [
+    {
+      "pergunta": "Onde faço matrícula e acompanho minha vida acadêmica?",
+      "resposta": "O principal sistema acadêmico é o SIGA. Acompanhe também o cronograma de matrículas e os prazos publicados pela UFPR e pela Coordenação."
+    },
+    {
+      "pergunta": "Onde encontro a sala de uma disciplina?",
+      "resposta": "Use a página de Ensalamento. Ela reúne a localização das aulas e facilita a consulta por disciplina, sala e prédio."
+    },
+    {
+      "pergunta": "Onde encontro requerimentos e formulários?",
+      "resposta": "A página Formulários e Instruções reúne os documentos e orientações disponibilizados pela Coordenação."
+    },
+    {
+      "pergunta": "Tenho dúvida sobre estágio. Por onde começo?",
+      "resposta": "Comece pela página de Estágios, que reúne as orientações acadêmicas e administrativas antes do início das atividades."
+    },
+    {
+      "pergunta": "Como consulto informações sobre TCC?",
+      "resposta": "A página Trabalho de Conclusão de Curso concentra orientações e documentos relacionados ao TCC."
+    },
+    {
+      "pergunta": "Como falar com a Coordenação?",
+      "resposta": "Use a página Contato e Atendimento para consultar os canais oficiais e as opções de atendimento da Coordenação."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#155e3b">
+<title>Manual do Estudante | Biomedicina UFPR</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#conteudo">Ir para o conteúdo</a>
+<main id="conteudo" class="page">
+  <header class="hero">
+    <div class="hero__tag">Biomedicina · UFPR <span id="versao"></span></div>
+    <h1 id="titulo">Manual do Estudante</h1>
+    <p id="subtitulo"></p>
+    <div class="searchbox">
+      <span aria-hidden="true">🔎</span>
+      <input id="busca" type="search" placeholder="O que você precisa? Ex.: estágio, matrícula, diploma, sala..." aria-label="Buscar no Manual do Estudante">
+      <button id="limpar" type="button">Limpar</button>
+    </div>
+    <div id="searchStatus" class="search-status" aria-live="polite"></div>
+  </header>
+
+  <section id="manual" class="manual-highlight"></section>
+
+  <section class="section searchable-section">
+    <div class="section-head"><div><span class="eyebrow">Atalhos</span><h2>Acessos rápidos</h2></div><p>Os serviços mais procurados em um só lugar.</p></div>
+    <div id="acessos" class="grid cards"></div>
+  </section>
+
+  <section class="section alt searchable-section">
+    <div class="section-head"><div><span class="eyebrow">Orientação por necessidade</span><h2>Quero...</h2></div><p>Escolha o que você precisa fazer agora.</p></div>
+    <div id="quero" class="grid quero-grid"></div>
+  </section>
+
+  <section class="section">
+    <div class="section-head"><div><span class="eyebrow">Do ingresso ao diploma</span><h2>Sua jornada acadêmica</h2></div><p>Uma visão geral das principais etapas do curso.</p></div>
+    <div id="jornada" class="timeline"></div>
+  </section>
+
+  <section id="calouros" class="section welcome searchable-section"></section>
+
+  <section class="section searchable-section">
+    <div class="section-head"><div><span class="eyebrow">Vida acadêmica digital</span><h2>Principais sistemas</h2></div><p>Acessos institucionais utilizados durante a graduação.</p></div>
+    <div id="sistemas" class="grid systems"></div>
+  </section>
+
+  <section class="section alt searchable-section">
+    <div class="section-head"><div><span class="eyebrow">Dúvidas frequentes</span><h2>Perguntas e respostas</h2></div><p>Orientações rápidas para situações comuns.</p></div>
+    <div id="faq" class="faq"></div>
+  </section>
+
+  <section id="contato" class="contact"></section>
+  <p class="footnote">Esta página funciona como central de orientação. Em caso de divergência, prevalecem as normas, calendários e sistemas oficiais da UFPR.</p>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
