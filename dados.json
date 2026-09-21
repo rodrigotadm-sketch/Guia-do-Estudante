@@ -288,7 +288,7 @@
     "itens": [
       {
         "titulo": "1. Acesse o SIGA",
-        "url": "https://siga.ufpr.br/portal/"
+        "url": "https://sistemas.ufpr.br/"
       },
       {
         "titulo": "2. Conheça a Grade Curricular",
@@ -317,7 +317,7 @@
       "titulo": "SIGA",
       "icone": "🎓",
       "descricao": "Sistema de Gestão Acadêmica: vida acadêmica, matrícula, histórico, declarações e solicitações.",
-      "url": "https://siga.ufpr.br/portal/"
+      "url": "https://sistemas.ufpr.br/"
     },
     {
       "titulo": "Portal do Aluno UFPR",
